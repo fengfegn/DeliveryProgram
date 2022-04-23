@@ -1,0 +1,13 @@
+Delivery for:             13420-114 Ave T5M 2Y5
+===============================================
+Date    Item                          Price
+------  --------------------------    ---------
+JAN 17  001 x Cherry tomato seeds     $    4.29
+JAN 17  001 x Lettuce seeds           $    3.29
+JAN 17  001 x Yellowfin zucchini *    $    5.49
+JAN 17  002 x Sunflower seeds         $   10.38
+JAN 19  001 x Pumpkin seeds           $    3.29
+JAN 20  003 x Garden tools (5-pc)     $   77.97
+                                      ---------
+                                      $  104.71
+
